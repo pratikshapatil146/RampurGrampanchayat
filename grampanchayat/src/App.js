@@ -3,9 +3,9 @@ import './App.css';
 import VillageWebsite from './components/VillageWebsite'
 function App() {
   return (
-    <div>
-
+    <div >
       <VillageWebsite />
+
     </div>
   );
 }
